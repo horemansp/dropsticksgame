@@ -1,1 +1,11 @@
+# Dropstick game
+##Game:
+Sticks with iron head will be hang on magnets.
+At random the sticks will drop. The player has to catch the sticks.
 
+##Operations:
+
+1. Press button once: red led will light up and magnets will be powered, hang sticks to magnets
+2. When finished press button again, game will start (buzzer will give start signal), the red light turns of and yellow led with light up during the game.
+3. When the game is finished the yellow led will go off
+3. To start again go to step 1
